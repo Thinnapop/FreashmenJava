@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CAMTShop",
+            "request": "launch",
+            "mainClass": "CAMTShop",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "Discount",
+            "request": "launch",
+            "mainClass": "Discount",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "Credit",
+            "request": "launch",
+            "mainClass": "Credit",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "att",
+            "request": "launch",
+            "mainClass": "att",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "Grade",
+            "request": "launch",
+            "mainClass": "Grade",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "ifElse",
+            "request": "launch",
+            "mainClass": "ifElse",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "Roulette",
+            "request": "launch",
+            "mainClass": "Roulette",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "mathClass",
+            "request": "launch",
+            "mainClass": "mathClass",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "Math",
+            "request": "launch",
+            "mainClass": "Math",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "input_user",
+            "request": "launch",
+            "mainClass": "input_user",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "type": "java",
+            "name": "Index",
+            "request": "launch",
+            "mainClass": "Index",
+            "projectName": "Java_a7fc2882"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
